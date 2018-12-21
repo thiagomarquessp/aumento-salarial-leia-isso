@@ -28,18 +28,23 @@ E não adianta falar que não faz, porque já fez sim e a maioria continua fazen
 
 E quando eu falo sobre colher informação desde a entrevista, é realmente saber o que é esperado de ti, quais atividades são esperadas que você faça, qual o tipo de entrega que esperam, etc, porque chegar no seu líder e pedir aumento fazendo **APENAS** o esperado não adianta, temos que entregar ***algo a mais***, e por isso é tão importante sabermos o que fazemos todos os dias, para que isso vire um argumento sólido, por exemplo: 
 
-```ruby
-    Funcionário    - Olá Fulano (boss), como estamos? 
-    Gestor Direto  - Estamos muito bem, como posso ajudá-lo?
-    Funcionário    - Como sabe, estou a X tempo na empresa, e colhi algumas métricas sobre o que                       eu tenho feito e gostaria de mostrar pra ti, como por exemplo: 
-                        a. Redução de X% na taxa de bugs mensais na empresa, representando assim um aumento em entregas de valor, pois passamos mais tempo desenvolvendo novas features do que corrigir bugs, se eu pensar que todos da empresa recebem igual a mim, estamos falando que a empresa deixa de gastar $X dinheiros com correção, dedicando muito mais em novas features. 
-                        b. Com minha ajuda efetiva no processo de desenvolvimento, eliminamos cerca de X% de desperdícios, desde desperdícios de tempo com reuniões desnecessárias, até mesmo aqueles desperdícios realizando testes exaustivos no fim da iteração.
-                        c. A previsibilidade do meu trabalho é de X tarefas por dia/semana.
-                        d. Uma culltura sólida de qualidade na empresa, representando assim nesses últimos X meses uma evolução na qualidade do produto e um aumento de X% em downloads ou acessos, o que proporcionalmente falando, quando entrei, o percentual era muito mais baixo porque tínhamos uma cultura ruim.
-                        e. Realizei workshops, treinamentos, etc.
-                     Dado isso, gostaria de pedir um aumento salarial.
-    Gestor Direto   - Deixa me pensar a respeito e falamos amanhã.
-```
+**Funcionário**    - Olá Fulano (boss), como estamos? 
+**Gestor Direto**  - Estamos muito bem, como posso ajudá-lo?
+**Funcionário**    - Como sabe, estou a X tempo na empresa, e colhi algumas métricas sobre o que eu tenho feito e gostaria de mostrar pra ti, como por exemplo: 
+  
+  **a.** Redução de X% na taxa de bugs mensais na empresa, representando assim um aumento em entregas de valor, pois passamos mais tempo desenvolvendo novas features do que corrigir bugs, se eu pensar que todos da empresa recebem igual a mim, estamos falando que a empresa deixa de gastar $X dinheiros com correção, dedicando muito mais em novas features. 
+  
+  **b.** Com minha ajuda efetiva no processo de desenvolvimento, eliminamos cerca de X% de desperdícios, desde desperdícios de tempo com reuniões desnecessárias, até mesmo aqueles desperdícios realizando testes exaustivos no fim da iteração.
+  
+  **c.** A previsibilidade do meu trabalho é de X tarefas por dia/semana.
+  
+  **d.** Uma culltura sólida de qualidade na empresa, representando assim nesses últimos X meses uma evolução na qualidade do produto e um aumento de X% em downloads ou acessos, o que proporcionalmente falando, quando entrei, o percentual era muito mais baixo porque tínhamos uma cultura ruim.
+  
+  **e.** Realizei workshops, treinamentos, etc.
+  
+Dado isso, gostaria de pedir um aumento salarial.
+
+**Gestor Direto**   - Deixa me pensar a respeito e falamos amanhã.
 
 **NENHUM** gestor espera isso, te garanto, principalmente quando você mostra o quanto a empresa ta economizando ou deixando de gastar por algumas ações que você participou diretamente, e ele sabe que não pode dizer um não logo de cara, porque qualquer argumento que ele tente dar não vai quebrar o seu, portanto, todos os seus argumentos devem estar bem focados, vou te ensinar como.
 
