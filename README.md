@@ -42,3 +42,8 @@ E quando eu falo sobre colher informação desde a entrevista, é realmente sabe
 ```
 
 **NENHUM** gestor espera isso, te garanto, principalmente quando você mostra o quanto a empresa ta economizando ou deixando de gastar por algumas ações que você participou diretamente, e ele sabe que não pode dizer um não logo de cara, porque qualquer argumento que ele tente dar não vai quebrar o seu, portanto, todos os seus argumentos devem estar bem focados, vou te ensinar como.
+
+1. [Trace um plano]()
+2. [Métricas básicas de grande valor]()
+3. [Previsibilidade]()
+4. [Organizando as ideias e apresentando-as]()

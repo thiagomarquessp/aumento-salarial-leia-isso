@@ -1,0 +1,1 @@
+# Métricas básicas 
