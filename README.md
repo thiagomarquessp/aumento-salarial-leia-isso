@@ -43,7 +43,7 @@ E quando eu falo sobre colher informação desde a entrevista, é realmente sabe
 
 **NENHUM** gestor espera isso, te garanto, principalmente quando você mostra o quanto a empresa ta economizando ou deixando de gastar por algumas ações que você participou diretamente, e ele sabe que não pode dizer um não logo de cara, porque qualquer argumento que ele tente dar não vai quebrar o seu, portanto, todos os seus argumentos devem estar bem focados, vou te ensinar como.
 
-1. [Trace um plano]()
-2. [Métricas básicas de grande valor]()
-3. [Previsibilidade]()
-4. [Organizando as ideias e apresentando-as]()
+1. [Trace um plano](https://github.com/thiagomarquessp/aumento-salarial-leia-isso/blob/master/trace-um-plano.md)
+2. [Métricas básicas de grande valor](https://github.com/thiagomarquessp/aumento-salarial-leia-isso/blob/master/metricas-basicas.md)
+3. [Previsibilidade](https://github.com/thiagomarquessp/aumento-salarial-leia-isso/blob/master/previsibilidade.md)
+4. [Organizando as ideias e apresentando-as](https://github.com/thiagomarquessp/aumento-salarial-leia-isso/blob/master/apresente-seus-argumentos.md)
