@@ -28,10 +28,10 @@ E não adianta falar que não faz, porque já fez sim e a maioria continua fazen
 
 E quando eu falo sobre colher informação desde a entrevista, é realmente saber o que é esperado de ti, quais atividades são esperadas que você faça, qual o tipo de entrega que esperam, etc, porque chegar no seu líder e pedir aumento fazendo **APENAS** o esperado não adianta, temos que entregar ***algo a mais***, e por isso é tão importante sabermos o que fazemos todos os dias, para que isso vire um argumento sólido, por exemplo: 
 
-```shell
+```ruby
     Funcionário    - Olá Fulano (boss), como estamos? 
     Gestor Direto  - Estamos muito bem, como posso ajudá-lo?
-    Funcionário    - Como sabe, estou a X tempo na empresa, e colhi algumas métricas sobre o que eu tenho feito e gostaria de mostrar                  pra ti, como por exemplo: 
+    Funcionário    - Como sabe, estou a X tempo na empresa, e colhi algumas métricas sobre o que                       eu tenho feito e gostaria de mostrar pra ti, como por exemplo: 
                         a. Redução de X% na taxa de bugs mensais na empresa, representando assim um aumento em entregas de valor, pois passamos mais tempo desenvolvendo novas features do que corrigir bugs, se eu pensar que todos da empresa recebem igual a mim, estamos falando que a empresa deixa de gastar $X dinheiros com correção, dedicando muito mais em novas features. 
                         b. Com minha ajuda efetiva no processo de desenvolvimento, eliminamos cerca de X% de desperdícios, desde desperdícios de tempo com reuniões desnecessárias, até mesmo aqueles desperdícios realizando testes exaustivos no fim da iteração.
                         c. A previsibilidade do meu trabalho é de X tarefas por dia/semana.
