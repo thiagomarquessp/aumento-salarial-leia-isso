@@ -12,5 +12,5 @@ Vamos entrar em um ramo interessante e que precisamos ter cautela lembra (deixar
 
 E lembrem-se que é necessário dar visibilidade a essas métricas =).
 
-E então, conseguimos dar um pouco mais de [**previsibilidade**](https://github.com/thiagomarquessp/aumento-salarial-leia-isso/blob/master/previsibilidade.md)
+E então, conseguimos dar um pouco mais de [**previsibilidade**](https://github.com/thiagomarquessp/aumento-salarial-leia-isso/blob/master/previsibilidade.md).
 
