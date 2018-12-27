@@ -63,22 +63,27 @@ Só para lembrar, no caso do Lead Time, que o Start Date é no momento em que a 
  A psicologia explica que quando temos algo inovador em um contexto "crítico", as pessoas tendem a trabalhar com mais empenho e entusiasmo as primeiras semanas. Então sugiro levar a sério os números a partir do terceiro sprint (minha opinião).
 
  4. Nas retrospectivas levem os números do sprint, por exemplo: 
+
+```ruby
 Previsão: 40 pontos
 Entregues: 40 pontos
 Não entregues: N/A
 Expedites: N/A
 Em desenvolvimento: 0
+```
 
 Esse é um sprint lindo, onde prometemos e entregamos, não tivemos expedites ou outras coisitas a mais (BUG FIX por exemplo).
 
 Mas tem casos como: 
 
+```ruby
 Previsão: 40 pontos
 Entregues: 35 pontos
 Não entregues: 5
 Expedites: 0
 Em desenvolvimento: 3
 Sprint Backlog: 2
+```
 
 Esse foi um sprint um pouco problemático porque não entregamos o prometido, e justamente na **retrospectiva** que temos que ver o que foi que aconteceu e vou dar um exemplo macro das user stories para ilustrar o exemplo acima: 
 
@@ -101,11 +106,11 @@ Levar na retrospectiva as US com suas pontuações e como foi a saúde do nosso 
 
 4. Planning pós "caos" vamos seguir da mesma maneira, porém dessa vez vamos olhar para os itens que não entregamos, e vamos avaliar com as mesmas perguntas: Mais perto do 1 ou Mais perto do 8? Porém agora vem a pergunta complementar: 
 
-1. Mais perto do 1, mas é igual ao 1?
+4.1. Mais perto do 1, mas é igual ao 1?
 
 Se a resposta for não, vem a seguinte:
 
-2. Se não é igual ao 1, é igual ao 8?
+4.2. Se não é igual ao 1, é igual ao 8?
 
 Se a resposta for **SIM**, assuma como 8, caso contrário, **abrimos a terceira faixa** (5) e assumimos aquilo como 5 e deixamos aquela User Story nessa régua padrão, ou seja, temos a **mais fácil**, a **mais difícil** e agora o grupo das **medianas**.
 
