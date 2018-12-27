@@ -19,7 +19,7 @@ Vou ajudar o leitor a simplesmente pensar um pouco no seu dia a dia e usar a mat
 
 ## Mais que obrigação
 
-Colher informações sobre o seu trabalho é algo tão comum que por ser assim temos preguiça por achar que não vale a pena colher informações e é engraçado, num mundo tão voltado a informação, a informação mais básica do nosso dia a dia é uma das únicas que evitamos "saber" ou de repente, quando temos a informação na mão, não sabemos utilizá-la a nosso favor, por exemplo, se hoje seu gestor te perguntar **"quantas tasks você automatiza em um dia/semana/mês?"** e temos dois caminhos:
+Colher informações sobre o seu trabalho é algo tão comum que por ser assim temos preguiça por achar que não vale a pena colher informações e é engraçado, num mundo tão voltado a informação, a informação mais básica do nosso dia a dia é uma das únicas que evitamos "saber" ou de repente, quando temos a informação na mão, não sabemos utilizá-la a nosso favor, por exemplo, se hoje seu gestor te perguntar **"quantas tasks você automatiza em um dia/semana/mês?"** teremos dois caminhos:
 
 1. Mentir
 2. Falar que não sabe
