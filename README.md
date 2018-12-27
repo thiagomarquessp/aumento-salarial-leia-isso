@@ -13,7 +13,7 @@ Aprendi que aumento salarial todos nós temos direito de pedir, até porque temo
 
 Acontece não é mesmo, mas pelo menos tentamos. 
 
-Agora, quando o seu pedido de aumento salarial vem em seguida de um argumento baseado em matemática, a chance desse arguemento ser derrubado é praticamente nula, e claro que não estamos falando em apenas fazer o que é esperado de um tester, mas vamos chegar lá.
+Agora, quando o seu pedido de aumento salarial vem em seguida de um argumento baseado em matemática, a chance desse argumento ser derrubado é praticamente nula, e claro que não estamos falando em apenas fazer o que é esperado de um tester, mas vamos chegar lá.
 
 Vou ajudar o leitor a simplesmente pensar um pouco no seu dia a dia e usar a matemática sempre a seu favor, tanto para pedir aumento, como para ter tomadas de decisão e ter mais convicção de que as coisas são mais **"precisas"** e menos **"achômetros"**.
 
