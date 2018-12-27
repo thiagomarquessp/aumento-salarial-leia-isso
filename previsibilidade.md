@@ -34,7 +34,7 @@ Lead Time = FD - SD
 
 Cycle Time = FD - SD 
 ```
-Só para lembrar, no caso do Lead Time, lembrem-se que o Start Date é no momento em que a task entra em Backlog e o Finish Date é o momento em que entra em Done e o Cycle Time tem o Start Date no momento em que sai de Backlog e entra em WIP e o Finish Date é o momento que a task entra em Done.
+Só para lembrar, no caso do Lead Time, que o Start Date é no momento em que a task entra em Backlog e o Finish Date é o momento em que entra em Done e o Cycle Time tem o Start Date no momento em que sai de Backlog e entra em WIP e o Finish Date é o momento que a task entra em Done.
 
 **Obs.:** Marque a data no post it de inicio e utilize o horário tanto no Start Date, quanto no Finish Date.
 
