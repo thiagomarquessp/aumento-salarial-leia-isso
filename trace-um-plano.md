@@ -5,10 +5,10 @@ Traçar planos de carreira pode ser uma tarefa bem complicada mas é muito impor
 Na minha opinião, cada um é responsável pela sua carreira e pela forma em que a conduzimos, portanto, a importância de traçar um plano quando se entra na empresa é justamente para saber onde nos encontramos e para onde queremos ir, seja em aspecto financeiro ou subir na carreira, então quando entramos em uma empresa, podemos responder as seguintes questões: 
 
 1. Entendi o objetivo pelo qual estou sendo contratado? 
-2. A empresa tem valores que se alinham com os meu valores pessoais? 
+2. A empresa tem valores que se alinham com os meus valores éticos e pessoais? 
 3. Como posso colaborar com a empresa em matéria de redução de custos?
 4. Como posso ser um agente de mudanças? 
-5. Como posso ajudar a empresa no processo de transformação em Qualidade?
+5. Como posso ajudar a empresa no processo de transformação em Qualidade ou mesmo Agile?
 
 Então esse é o primeiro passo, e assim que receber a proposta e aceitá-la, trace um plano de trabalho prévio, ou seja, trace a base de sua filosofia de trabalho, e caso você não tenha, qual vai ser a melhor de se adaptar ao contexto, coloque isso num papel e administre sua ansiedade. 
 
